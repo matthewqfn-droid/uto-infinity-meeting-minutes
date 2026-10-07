@@ -1,5 +1,5 @@
 ---
-name: youmiao-meeting-minutes
+name: uto-infinity-meeting-minutes
 description: Use when 整理、建立或修改優淼私董會的總監會議紀錄，或用戶要求沿用優淼的繁體中文會議紀錄規則、色塊表格格式及金句精選。
 ---
 

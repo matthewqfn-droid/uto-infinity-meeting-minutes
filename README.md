@@ -15,22 +15,22 @@
 
 ## 安裝
 
-將這個儲存庫下載到個人 Codex 技能資料夾，並把資料夾命名為 `youmiao-meeting-minutes`。例如在 macOS 或 Linux 執行：
+將這個儲存庫下載到個人 Codex 技能資料夾，並把資料夾命名為 `uto-infinity-meeting-minutes`。例如在 macOS 或 Linux 執行：
 
 ```bash
-git clone https://github.com/matthewqfn-droid/uto-infinity-meeting-minutes.git ~/.codex/skills/youmiao-meeting-minutes
+git clone https://github.com/matthewqfn-droid/uto-infinity-meeting-minutes.git ~/.codex/skills/uto-infinity-meeting-minutes
 ```
 
-如果已自訂 `CODEX_HOME`，請放在該目錄的 `skills/youmiao-meeting-minutes/`。若目的資料夾已存在，先檢查現有技能，不要直接覆蓋。安裝後在新對話確認技能已出現在可用清單。
+如果已自訂 `CODEX_HOME`，請放在該目錄的 `skills/uto-infinity-meeting-minutes/`。若目的資料夾已存在，先檢查現有技能，不要直接覆蓋。安裝後在新對話確認技能已出現在可用清單。
 
-儲存庫名稱是 `uto-infinity-meeting-minutes`，技能的叫用名稱是 **`youmiao-meeting-minutes`**。
+儲存庫名稱是 `uto-infinity-meeting-minutes`，技能的叫用名稱是 **`uto-infinity-meeting-minutes`**。
 
 ## 怎樣使用
 
 在 Codex 附上轉錄文檔，並提供當次會議基本資料，輸入：
 
 ```text
-請使用 $youmiao-meeting-minutes，將附件整理成優淼私董會總監會議紀錄。
+請使用 $uto-infinity-meeting-minutes，將附件整理成優淼私董會總監會議紀錄。
 
 日期：YYYY年MM月DD日
 時間：開始時間至結束時間
@@ -47,7 +47,7 @@ git clone https://github.com/matthewqfn-droid/uto-infinity-meeting-minutes.git ~
 需要修改現有紀錄時，可附上文件並輸入：
 
 ```text
-請使用 $youmiao-meeting-minutes 修改這份會議紀錄，將以下資料更新，
+請使用 $uto-infinity-meeting-minutes 修改這份會議紀錄，將以下資料更新，
 保留原有繁體中文、色塊、表格及金句格式：
 （列出需要修改的資料）
 ```

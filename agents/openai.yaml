@@ -1,4 +1,4 @@
 interface:
   display_name: "優淼私董會會議紀錄"
   short_description: "按優淼議程整理繁體總監會議紀錄，沿用色塊表格格式及金句精選"
-  default_prompt: "請使用 $youmiao-meeting-minutes 將這份轉錄整理成優淼私董會繁體總監會議紀錄並存檔。"
+  default_prompt: "請使用 $uto-infinity-meeting-minutes 將這份轉錄整理成優淼私董會繁體總監會議紀錄並存檔。"
